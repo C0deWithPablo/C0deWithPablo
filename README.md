@@ -35,28 +35,6 @@ Focused on expanding into Blockchain Development and EVM ecosystems through Soli
 
 ---
 
-## 🚀 Blockchain Projects
-
-### 🏦 CryptoBank dApp
-Decentralized banking application with deposit/withdraw functionality and on-chain balance management.
-
-### 🖼 NFT Collection
-ERC-721 NFT collection with decentralized metadata storage using IPFS.
-
-### 🛒 NFT Marketplace
-Marketplace for minting, buying and selling NFTs.
-
-### 💰 Presale dApp
-Token presale system with whitelist logic and fund management.
-
-### 🔄 Swapping dApp
-Token swap functionality inspired by DEX architectures.
-
-### 📈 Staking dApp
-Staking protocol with rewards distribution logic.
-
----
-
 ## 🎯 Current Focus
 
 - Smart Contract Security
